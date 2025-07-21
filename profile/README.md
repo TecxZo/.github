@@ -1,8 +1,5 @@
 <!-- TecxZo GitHub Organization Profile README -->
 
-<p align="center">
-  <img src="https://tecxzo.info/assets/images/logo.svg" alt="TecxZo Logo" height="120">
-</p>
 
 <h1 align="center">Welcome to TecxZo 👋</h1>
 
